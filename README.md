@@ -51,9 +51,11 @@ Dedicated to Linux & NixOS for declarative configuration and reproducibility, Ma
 ### 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nix,linux,bash,go,ts,js,nodejs,react,python,dart,flutter,kotlin,c,cpp,r&theme=dark&perline=15" alt="languages and frameworks" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,ts,js,python,nodejs,react,dart,flutter,kotlin,bash,r&theme=dark&perline=13" alt="languages and frameworks" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,caddy,git,github,gitea,vscode,neovim,qt,androidstudio&theme=dark&perline=11" alt="tools and infrastructure" />
+  <img src="https://skillicons.dev/icons?i=linux,nix,arch,debian,ubuntu,docker,caddy,nginx,githubactions,git,github,gitea,qt,androidstudio&theme=dark&perline=14" alt="systems and infrastructure" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,pytorch,vscode,neovim&theme=dark&perline=7" alt="databases, ai and developer tools" />
 </div>
 
 ### 📊 GitHub Activity & Stats
