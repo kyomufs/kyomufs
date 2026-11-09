@@ -42,11 +42,11 @@ Dedicated to Linux & NixOS for declarative configuration and reproducibility, Ma
 | Project | Stack | Description |
 | :--- | :--- | :--- |
 | **[tulgusch](https://github.com/kyomufs/tulgusch)** | `Dart` `Flutter` `M3E` | Расписание, журнал оценок и дедлайны в Material 3 Expressive для Android и iOS, сборка релизов в CI. |
-| **[free-ai-router](https://github.com/kyomufs/free-ai-router)** | `Go` `OpenAI API` | OpenAI-совместимый локальный шлюз к бесплатным AI-провайдерам на нативных протоколах. |
+| **[providermux](https://github.com/kyomufs/providermux)** | `Go` `OpenAI API` | OpenAI-совместимый локальный шлюз к бесплатным AI-провайдерам на нативных протоколах. |
 | **[proxprobe](https://github.com/kyomufs/proxprobe)** | `Go` `mihomo` `Clash` | Сбор серверов из прокси-подписок, валидация через mihomo и генерация готового Clash-профиля. |
 | **[dsh-md3-theme](https://github.com/kyomufs/dsh-md3-theme)** | `JavaScript` `HCT` | Тема Material Design 3 для DeepSeek Harness: HCT-палитры с 7 акцентными пресетами. |
 | **[dsh-home-guard](https://github.com/kyomufs/dsh-home-guard)** | `JavaScript` `DSH` | Карта домашнего каталога, чистка сессий, таймер очистки и аудит для DeepSeek Harness. |
-| **[free-ai-router-dshplugin](https://github.com/kyomufs/free-ai-router-dshplugin)** | `JavaScript` `DSH` | Плагин для DeepSeek Harness: провайдеры демона free-ai-router как независимые маршруты. |
+| **[providermux-dsh](https://github.com/kyomufs/providermux-dsh)** | `JavaScript` `DSH` | Плагин для DeepSeek Harness: провайдеры демона providermux как независимые маршруты. |
 
 ### 🛠 Tech Stack
 
